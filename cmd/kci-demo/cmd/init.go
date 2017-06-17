@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/Impyy/kci-demo/cmd/kci-demo/profile"
+	"github.com/alexbakker/kci-demo/cmd/kci-demo/profile"
 	"github.com/spf13/cobra"
 )
 

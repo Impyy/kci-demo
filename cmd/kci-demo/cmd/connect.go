@@ -6,9 +6,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/Impyy/kci-demo/cmd/kci-demo/client"
-	"github.com/Impyy/kci-demo/cmd/kci-demo/crypto"
-	"github.com/Impyy/kci-demo/cmd/kci-demo/profile"
+	"github.com/alexbakker/kci-demo/cmd/kci-demo/client"
+	"github.com/alexbakker/kci-demo/cmd/kci-demo/crypto"
+	"github.com/alexbakker/kci-demo/cmd/kci-demo/profile"
 	"github.com/spf13/cobra"
 )
 

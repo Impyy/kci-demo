@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Impyy/kci-demo/cmd/kci-demo/cmd"
+	"github.com/alexbakker/kci-demo/cmd/kci-demo/cmd"
 )
 
 func main() {

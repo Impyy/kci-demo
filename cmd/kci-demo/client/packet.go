@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"net"
 
-	"github.com/Impyy/kci-demo/cmd/kci-demo/crypto"
+	"github.com/alexbakker/kci-demo/cmd/kci-demo/crypto"
 )
 
 var (

@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/Impyy/kci-demo/cmd/kci-demo/crypto"
+	"github.com/alexbakker/kci-demo/cmd/kci-demo/crypto"
 )
 
 const (
